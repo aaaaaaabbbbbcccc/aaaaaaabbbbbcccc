@@ -4,4 +4,3 @@
 - 🌱 Eu estou aprendendo a programar no JavaScript
 - 💞️ Eu moro em Londrina
 
-https://scratch.mit.edu/projects/665252219/
